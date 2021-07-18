@@ -1,5 +1,5 @@
 # AscEtoilesGradePerso
-Script Sinusbot sinusbot servant à changer son étoile sur TeamSpeak quand on est Grade Perso.
+Script Sinusbot servant à changer son étoile sur TeamSpeak quand on est Grade Perso.
 
 
 ## Contexte
