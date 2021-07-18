@@ -1,7 +1,6 @@
 # AscEtoilesGradePerso
 Script sinusbot servant à changer son étoile quand on est Grade Perso.
 
----
 
 ## Contexte
 
@@ -13,7 +12,6 @@ Avec un tel système, les Grades Perso s'adressent à un robot client TeamSpeak,
 Je publie ce script puisqu'il peut être adapté à plusieurs autres applications, en éditant bien sûr quelques variables du fichier JS dont certaines que j'ai inscrites en clair au sein même du code.
 Je pense par exemple à des No-poke, des No-MP, des groupes de serveur faisant office de préfixe ou suffixe ainsi qu'à des groupes de serveur à icônes, comme les étoiles sur le TS d'Ascentia.
 
----
 
 ## Auteur
 
