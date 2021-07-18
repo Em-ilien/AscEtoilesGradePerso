@@ -3,7 +3,7 @@ Script sinusbot servant à changer son étoile quand on est Grade Perso.
 
 ---
 
-##Contexte
+## Contexte
 
 Voici un petit script SinusBot que j'avais créé pour mon propre loisir dans l'optique de le donner à nathan818, peu avant qu'il installe un système identique fonctionnant à priori autrement que par un bot Sinusbot.
 À l'époque où j'ai réalisé ce script, les Modos d'Ascentia devaient encore ajouter l'étoile à la main aux Grades Persos qui souhaitaient changer d'étoile et devaient donc attendre l'arrivée d'un Modo.
@@ -15,7 +15,7 @@ Je pense par exemple à des No-poke, des No-MP, des groupes de serveur faisant o
 
 ---
 
-##Auteur
+## Auteur
 
 Em_i <emilien@emixocle.fr>
 Helper sur FunCraft
